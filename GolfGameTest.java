@@ -1,4 +1,4 @@
-package hillcrest.project.snake;
+package IBCriterionC;
 
 import org.junit.Before;
 import org.junit.Test;
