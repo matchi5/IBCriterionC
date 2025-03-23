@@ -1,4 +1,4 @@
-package hillcrest.project.snake;
+package IBCriterionC;
 
 // Main class
 import javax.swing.*;
